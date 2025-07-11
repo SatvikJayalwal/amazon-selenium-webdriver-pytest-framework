@@ -1,0 +1,6 @@
+{
+    "C_Cpp.copilotHover": "disabled",
+    "github.copilot.enable": {
+        "*": false
+    }
+}
